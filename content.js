@@ -36,7 +36,7 @@ async function findDivs() {
     'Rake', 'Start Time']];
 
   
-  document.querySelector(".styles__infoIcon__i2XtS").click();
+  document.querySelector(".styles__infoIcon__Ac3ZD").click();
   await sleep(750);
   var tourney_info = [];
 
